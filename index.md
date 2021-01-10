@@ -1,7 +1,7 @@
 # My First Blogpost!
 Hi there! I'm just testing things out.
 ```python
-s = "Python syntax highlighting"
+s = "Python syntax hanslighting"
 print s
 ```
 
